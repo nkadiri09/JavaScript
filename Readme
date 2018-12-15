@@ -1,0 +1,15 @@
+
+## JAVAScript Basics:
+
+      var a;
+      console.log(typeof a);
+      console.log(a); 
+      a=10; 
+      console.log(typeof a);
+      console.log(a); 
+      a="Narendra";
+      console.log(a);
+      console.log(typeof a);
+      a=true;
+      console.log(typeof a);
+      console.log(a);
