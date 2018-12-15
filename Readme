@@ -1,5 +1,5 @@
 
-## JAVAScript Basics:
+#JAVAScript Basics:
 
       var a;
       console.log(typeof a);
